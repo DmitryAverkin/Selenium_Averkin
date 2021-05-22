@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcVBtIaD+fXN8BcC/NWl6VtZsf5dnldWRjFB563ZEHosFTaEU5ajBQAKIodYFbQf4W/tj0YoP0E/p1chWskS+g==",
+  "dgSpecHash": "ztd3DaoaSyuWwPPUYbfKZG+lTPiCFlHiBcGPNP+JPMY4V14oWQBBBaPKukKz9zFFsOjarLHO5Hk2n3ilMZ8zdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\SeleniumWebDriverAverkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
