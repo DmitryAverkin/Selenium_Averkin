@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztd3DaoaSyuWwPPUYbfKZG+lTPiCFlHiBcGPNP+JPMY4V14oWQBBBaPKukKz9zFFsOjarLHO5Hk2n3ilMZ8zdg==",
+  "dgSpecHash": "4D8z2tUTMbgqJjNdPRfKvCjlgGIH5mUmjGlXI85FPwDY85VnmrVUIWvp17ZUD+/q+NCBEgz4mWrfgn+zPqeBBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
