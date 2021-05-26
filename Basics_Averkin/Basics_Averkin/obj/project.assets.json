@@ -4614,11 +4614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Labs_Selenium\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
       "projectName": "Basics_Averkin",
-      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Labs_Selenium\\Basics_Averkin\\Basics_Averkin\\Basics_Averkin.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Selenium_Averkin\\Basics_Averkin\\Basics_Averkin\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Labs_Selenium\\Basics_Averkin\\Basics_Averkin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
